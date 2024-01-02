@@ -16,4 +16,24 @@ Flask+ElasticSearch+python爬虫技术实现的搜素引擎项目
 
 ### 备注
 
-另有python爬虫入库ElasticSearch代码，及Vue3+Flask+ElasticSearch实现的前后端分离版搜索引擎项目和开发文档。有需要的加微信号：tiantiancode 备注Flask搜索引擎项目。
+另有
+
+- python博客园爬虫并入库ElasticSearch代码
+
+- Vue3+Flask+ElasticSearch实现的前后端分离版搜索引擎项目
+
+- 手把手开发文档
+
+- ElasticSearch相关安装包
+
+  有需要的加V：tiantiancode 备注[Flask搜索引擎项目]。
+
+  
+
+  ![1704162543699](Readme.assets/1704162543699.png)
+
+![1704161929930](Readme.assets/1704161929930.png)
+
+![1704162032324](Readme.assets/1704162032324.png)
+
+![1704162509695](Readme.assets/1704162509695.png)
