@@ -28,7 +28,7 @@ Flask+ElasticSearch+python爬虫技术实现的搜素引擎项目
 
   有需要的加V：tiantiancode 备注[Flask搜索引擎项目]。
 
-  
+  或直接去面包多购买https://mbd.pub/o/bread/ZZmXk5ht（关注面包多即可）
 
   ![1704162543699](Readme.assets/1704162543699.png)
 
